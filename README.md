@@ -9,7 +9,7 @@
 - 👨‍💻 I'm a **Freelance full-stack** web developer
 - 💻 I use daily: **JavaScript**, **VueJS**, **Quasar**, **NodeJS**, **Git**, **VS Code**
 - 🚀 Wanna learn more or see my work ? Check this out [https://champin.dev](https://champin.dev)
-- 🤝 I’m available for freelancing, so shoot me a message on Malt or a mail to [hello@champin.dev](mailto:hello@champin.dev) !
+- 🤝 I’m available for freelancing, so shoot me a message on [Malt](https://www.malt.fr/profile/bastienchampin) or a mail to [hello@champin.dev](mailto:hello@champin.dev) !
 
 ## Some stats
 <picture>
